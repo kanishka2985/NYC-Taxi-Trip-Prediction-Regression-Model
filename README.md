@@ -31,7 +31,7 @@ In a city as fast-paced as NYC, knowing how long a taxi trip will take is crucia
 
 - Python 🐍
 - Pandas & NumPy
-- Scikit-learn(Linear Regression,Lasso,Ridge & KNN Regressor)
+- Scikit-learn
 - XGBoost
 - Matplotlib & Seaborn
 - Jupyter Notebook
