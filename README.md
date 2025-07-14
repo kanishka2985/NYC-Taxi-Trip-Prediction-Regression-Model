@@ -79,7 +79,7 @@ Each model was evaluated using appropriate metrics such as **R² score** and **R
 ## 📈 Results
 
 - **Best Performing Model**: Lasso and XGBoost (based on accuracy and generalization)
-- **R² Score**: High (above 0.99 on training, above 0.98 on validation)
+- **R² Score**: High (above 0.982 on training, above 0.928 on validation)
 - **Key Insight**: Trip duration is heavily influenced by pickup time and location, as well as traffic patterns on different days.
 
 ---
